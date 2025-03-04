@@ -1,3 +1,3 @@
-# ToDo-Program
+# ToDo App
 
-# This is My small Project
+# This is My ToDo Project
