@@ -5,7 +5,7 @@ function Add() {
  if(inpStr.value == ""){
     alert("Please Enter task")
  }else{
-    let NewElem = document.createElement("ul");  //ul => element create
+    let NewElem = document.createElement("ul");   //ul => element create
     NewElem.innerHTML = `${inpStr.value} <i class="fa-solid fa-trash"></i>`;
     NewDiv.appendChild(NewElem);
     inpStr.value="";
